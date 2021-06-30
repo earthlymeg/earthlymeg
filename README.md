@@ -5,7 +5,7 @@
 
 ### I'm a Full-Stack Developer living in the Front Range of Colorado. ⛰
 
-I am inspired by the natural world around me and the opportunity to use technology to make the Earth a better place for all. 🌍 I am seeking remote opportunities in climate technology, blockchain, cannabis technology, and any altruistic organization. 
+I am inspired by the natural world around me and the opportunity to use technology to make the Earth a better place for all. 🌍 I am seeking remote opportunities in climate, blockchain, education, audio engineering, cannabis tech, and any altruistic organization. 
 
 Learn more at [https://meg-shulmister.herokuapp.com/](https://meg-shulmister.herokuapp.com/).
 
