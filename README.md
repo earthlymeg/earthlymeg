@@ -7,7 +7,7 @@
 
 I am inspired by the natural world around me and the opportunity to use technology to make the Earth a better place for all. 🌍 I am seeking remote opportunities in climate, blockchain, education, audio engineering, cannabis tech, and any altruistic organization. 
 
-Learn more at [https://meg-shulmister.herokuapp.com/](https://meg-shulmister.herokuapp.com/).
+Learn more at [https://megshulmister.com/](https://megshulmister.com/).
 
 🔭 I’m currently working on https://vegan-messenger-559e0.web.app/ 
 🌱 I’m currently learning WCAG and blockchain! 
