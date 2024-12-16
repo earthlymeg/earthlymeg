@@ -3,14 +3,9 @@
 
 ## I'm Meg. Welcome to my github!
 
-### I'm a Full-Stack Developer living in the Front Range of Colorado. ⛰
+### I'm a Product Manager / Full-Stack Developer living in the Front Range of Colorado. ⛰
 
-I am inspired by the natural world around me and the opportunity to use technology to make the Earth a better place for all. 🌍 I am seeking remote opportunities in climate, blockchain, education, audio engineering, cannabis tech, and any altruistic organization. 
-
-Learn more at [https://megshulmister.com/](https://megshulmister.com/).
-
-🔭 I’m currently working on https://vegan-messenger-559e0.web.app/ 
-🌱 I’m currently learning WCAG and blockchain! 
+I am inspired by the natural world around me and the opportunity to use technology to make the Earth a better place for all. 🌍 
 
 ### Tech Stack:
 
@@ -20,7 +15,7 @@ JavaScript (ES5/ES6), React, CSS, HTML
 
 **Back-End:**
 
-Node.js, Express, MySQL, PostgreSQL, MongoDB
+Node.js, Express, MySQL, PostgreSQL
 
 **Tools:**
 
