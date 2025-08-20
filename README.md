@@ -1,3 +1,5 @@
+<img width="2000" height="600" alt="Blush Wave LinkedIn Banner" src="https://github.com/user-attachments/assets/625fcacf-ad78-4b9e-afaf-c08d1294ebfa" />
+
 
 ## I'm Meg. Welcome to my github!
 
