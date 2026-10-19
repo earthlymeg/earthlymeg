@@ -1,13 +1,10 @@
 
 ## I'm Meg. Welcome to my github!
 
-### I'm a Product Manager / vibe-coder living in the Front Range of Colorado. ⛰
+### I'm a Product Manager + Builder living in the Front Range of Colorado. ⛰
 
 I am inspired by the natural world around me and the opportunity to use technology to make the Earth a better place for all. 🌍 
 
-### Tech Stack:
-
-Claude Code, Cursor
 
 <!--
 **earthlymeg/earthlymeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
