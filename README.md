@@ -5,7 +5,7 @@
 
 I am inspired by the natural world around me and the opportunity to use technology to make the Earth a better place for all. 🌍 
 
-mother of [ladydata.co]([www.ladydata.co](https://www.ladydata.co)) | ex-GitLab (Orbit) 
+mother of [ladydata.co](https://www.ladydata.co) | ex-GitLab (Orbit) 
 
 <!--
 **earthlymeg/earthlymeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
