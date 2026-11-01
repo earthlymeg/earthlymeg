@@ -1,10 +1,11 @@
 
-## I'm Meg. Welcome to my github!
+## Meg Corren. Product Manager (Branching) @ Supabase 💚
 
-### I'm a Product Manager + Builder living in the Front Range of Colorado. ⛰
+### hey! i'm a pm/builder living in the Front Range of Colorado. ⛰
 
 I am inspired by the natural world around me and the opportunity to use technology to make the Earth a better place for all. 🌍 
 
+mother of [ladydata.co](ladydata.co) | ex-GitLab (Orbit) 
 
 <!--
 **earthlymeg/earthlymeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
